@@ -1,5 +1,6 @@
 # Design
 08.04.2022
+# Practices
 . Web Design and Website Personalities
 . Typography
 . Colors
